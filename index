@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link Saya</title>
+    <style>
+        body { font-family: sans-serif; background-color: #f4f4f9; text-align: center; padding: 50px; }
+        .container { max-width: 400px; margin: auto; background: white; padding: 20px; border-radius: 15px; shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h1 { color: #333; }
+        .btn { display: block; background: #24292f; color: white; text-decoration: none; padding: 12px; margin: 10px 0; border-radius: 8px; transition: 0.3s; }
+        .btn:hover { background: #000; transform: scale(1.05); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://github.com/identicons/jasonlong.png" width="100" style="border-radius: 50%;">
+        <h1>Halo, Saya [Nama Kamu]</h1>
+        <p>Selamat datang di profil saya!</p>
+        
+        <a href="https://github.com" class="btn">GitHub Saya</a>
+        <a href="https://linkedin.com" class="btn">LinkedIn</a>
+        <a href="https://instagram.com" class="btn">Instagram</a>
+    </div>
+</body>
+</html>
